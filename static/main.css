@@ -1,0 +1,30 @@
+.back{
+    background-image: url('/webapp/static/home.jpg');
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+body
+{
+    background-color: black;
+}
+.p1{
+    color: aliceblue;
+}
+.fo{
+    font-size: 15px;
+   
+}
+.row2{
+    padding-top: 10%;
+}
+footer{
+    
+    background-color: rgba(171, 176, 176, 0.635);
+    color: aliceblue;
+    float: center;
+    
+}
